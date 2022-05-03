@@ -24,7 +24,7 @@ def make_small_instance() -> Instance:
     is valid.
     """
     cities = []
-    # YOUR CODE HERE
+    
     return Size.SMALL.instance(cities)
 
 
